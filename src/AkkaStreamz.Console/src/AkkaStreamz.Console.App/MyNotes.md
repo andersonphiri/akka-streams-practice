@@ -24,3 +24,6 @@
 
 - scala code: 
 - https://github.com/rockthejvm/akka-streams/tree/master/src/main/scala/part4_techniques 
+
+- sink and sources from channels :
+- https://alpakka.getakka.net/documentation/Channels.html 
